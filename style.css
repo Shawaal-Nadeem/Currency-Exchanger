@@ -1,0 +1,76 @@
+body{
+background-color: white;
+}
+.nav{
+    position: absolute;
+width: 1410px;
+height: 70px;
+left: 0px;
+top: 0px;
+background-color:rgb(4, 54, 38);;
+}
+#heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding-bottom: 3px;
+}
+.line{
+    margin-top: -50%;
+    margin-left: 30%;
+    color:#00203FFF;
+    font-size: 200%;
+}
+.inputs{
+    margin-top:10%;
+    padding-left: 200px;
+}
+#price{
+    height: 50px;
+    width: 20%;
+    margin-left: 35px;
+}
+#country1{
+    height: 50px;
+    width: 25%;
+    margin-left: 35px;
+}
+#country2{
+    height: 50px;
+    width: 25%;
+    margin-left: 35px;
+}
+.btn{
+    margin-top: 130px;
+    margin-left: 470px;
+}
+#sub{
+height: 45px;
+width: 110px;
+background-color: green;
+cursor: pointer;
+border-radius: 15px;
+border-color: white;
+color: white;
+}
+#clr{
+    margin-left: 200px;
+    height: 35px;
+width: 80px;
+background-color:gray;
+cursor: pointer;
+border-radius: 7px;
+border-color: white;
+color: white;
+}
+
+#ans{
+    margin-top: 40px;
+    margin-left: 600px;
+    font-size: 40px;
+    color:#00203FFF
+}
+img{
+top: 90px;
+}
